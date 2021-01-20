@@ -1,2 +1,2 @@
 # poopython
-Pruebas de POO con Python
+Curso de Python 2020
