@@ -32,3 +32,6 @@ timeString = time.strftime("%d/%m/%Y, %H:%M:%S")
 print(timeInTuple)
 print(timeString)
 print(timeInTuple.tm_wday)
+
+# modificación desde Ubuntu
+print("Modificado desde Ubuntu")
